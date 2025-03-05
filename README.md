@@ -1,2 +1,2 @@
 # demo3
-This is just for the sake of demo of github
+This is just for the sake of a GitHub demo
